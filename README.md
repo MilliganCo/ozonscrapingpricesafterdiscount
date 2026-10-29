@@ -1,5 +1,7 @@
 # Ozon Scraping Prices After Discount
 
+> Public experimental source: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known defects, restored modules and operational limits. Earlier audit decisions are historical.
+
 Исследовательский Python/Playwright-скрипт для выборочной проверки карточек Ozon и извлечения витринных цен после скидок со страницы товара.
 
 ## Статус аудита
